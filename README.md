@@ -126,6 +126,3 @@ else:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This version reflects the use of the `.keras` format for saving the model. Let me know if you need any more adjustments!
