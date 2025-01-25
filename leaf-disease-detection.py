@@ -71,7 +71,7 @@ model.compile(optimizer='adam',
 history = model.fit(
     train_dataset,
     validation_data=val_dataset,
-    epochs=10  # You can adjust the number of epochs based on your needs
+    epochs=30  # You can adjust the number of epochs based on your needs
 )
 
 # Step 8: Evaluate the model on test data
